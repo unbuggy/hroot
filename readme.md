@@ -280,7 +280,7 @@ git clone https://github.com/polydawn/hroot && cd hroot
 git submodule update --init
 
 ./goad build
-sudo cp hroot/hroot /usr/bin/hroot
+sudo cp hroot /usr/bin/hroot
 ```
 
 Now you're ready to rock & roll.
